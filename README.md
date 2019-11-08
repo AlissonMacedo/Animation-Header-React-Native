@@ -8,7 +8,6 @@
 
 <p align="center">
 <img src="./demo/demo1.gif" alt="demo1" title="demo1">
-<img src="./demo/demo2.gif" alt="demo1" title="demo2">
 </p>
 
 
